@@ -59,7 +59,7 @@ namespace Operators_Quiz_01
                     wrongCount++;
                 }
 
-            } while (answer1 != guess);
+            } while (answer != guess);
 
             do
             {
