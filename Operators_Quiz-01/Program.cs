@@ -246,7 +246,7 @@ namespace Operators_Quiz_01
                     wrongCount++;
                 }
 
-            } while (answer1 != guess);
+            } while (answer11 != guess);
 
             do
             {
