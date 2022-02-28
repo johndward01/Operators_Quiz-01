@@ -80,7 +80,7 @@ namespace Operators_Quiz_01
 
             do
             {
-                Console.WriteLine("x -= 1000; What is the long form of this code?");
+                Console.WriteLine("x -= 20; What is the long form of this code?");
                 guess = Console.ReadLine();
                 if (guess == answer2)
                 {
