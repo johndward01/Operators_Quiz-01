@@ -23,7 +23,7 @@ namespace Operators_Quiz_01
             var answer2 = "x = x - 20;"; // x -= 1000; What is the long form of this code?
             var answer3 = "x = x * 20;"; // x *= 20; What is the long form of this code?
             var answer4 = "x = x / 20;"; // x /= 20; What is the long form of this code?
-            var answer5 = "modulus"; // What is the % operator called?
+            var answer5 = "modulus;"; // What is the % operator called?
             var answer6 = "x = x % 20;"; // x %= 20; What is the long form of this code?
             var answer7 = "x = x + 1;"; // x++; What is the long form of this code?
             var answer8 = "x = x - 1;"; // x--; What is the long form of this code?
