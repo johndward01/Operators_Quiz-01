@@ -229,7 +229,7 @@ namespace Operators_Quiz_01
                     wrongCount++;
                 }
 
-            } while (answer1 != guess);
+            } while (answer10 != guess);
 
             do
             {
@@ -263,7 +263,7 @@ namespace Operators_Quiz_01
                     wrongCount++;
                 }
 
-            } while (answer1 != guess);
+            } while (answer12 != guess);
 
             do
             {
@@ -280,7 +280,7 @@ namespace Operators_Quiz_01
                     wrongCount++;
                 }
 
-            } while (answer1 != guess);
+            } while (answer13 != guess);
 
             do
             {
@@ -297,7 +297,7 @@ namespace Operators_Quiz_01
                     wrongCount++;
                 }
 
-            } while (answer1 != guess);
+            } while (answer14 != guess);
 
             do
             {
@@ -314,7 +314,7 @@ namespace Operators_Quiz_01
                     wrongCount++;
                 }
 
-            } while (answer1 != guess);
+            } while (answer15 != guess);
 
             do
             {
@@ -331,7 +331,7 @@ namespace Operators_Quiz_01
                     wrongCount++;
                 }
 
-            } while (answer1 != guess);
+            } while (answer16 != guess);
 
             do
             {
@@ -348,7 +348,7 @@ namespace Operators_Quiz_01
                     wrongCount++;
                 }
 
-            } while (answer1 != guess);
+            } while (answer17 != guess);
 
             do
             {
@@ -365,7 +365,7 @@ namespace Operators_Quiz_01
                     wrongCount++;
                 }
 
-            } while (answer1 != guess);
+            } while (answer18 != guess);
 
             do
             {
@@ -382,7 +382,7 @@ namespace Operators_Quiz_01
                     wrongCount++;
                 }
 
-            } while (answer1 != guess);
+            } while (answer19 != guess);
 
             do
             {
@@ -399,7 +399,7 @@ namespace Operators_Quiz_01
                     wrongCount++;
                 }
 
-            } while (answer1 != guess);
+            } while (answer20 != guess);
 
             var time = sw.Elapsed.TotalSeconds;
 
